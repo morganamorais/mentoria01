@@ -1,0 +1,15 @@
+C:\Users\Morgana\DEV\mentoria-carrefour\bin\Debug\net6.0\mentoria-carrefour.exe
+C:\Users\Morgana\DEV\mentoria-carrefour\bin\Debug\net6.0\mentoria-carrefour.deps.json
+C:\Users\Morgana\DEV\mentoria-carrefour\bin\Debug\net6.0\mentoria-carrefour.runtimeconfig.json
+C:\Users\Morgana\DEV\mentoria-carrefour\bin\Debug\net6.0\mentoria-carrefour.dll
+C:\Users\Morgana\DEV\mentoria-carrefour\bin\Debug\net6.0\mentoria-carrefour.pdb
+C:\Users\Morgana\DEV\mentoria-carrefour\obj\Debug\net6.0\mentoria-carrefour.csproj.AssemblyReference.cache
+C:\Users\Morgana\DEV\mentoria-carrefour\obj\Debug\net6.0\mentoria-carrefour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morgana\DEV\mentoria-carrefour\obj\Debug\net6.0\mentoria-carrefour.AssemblyInfoInputs.cache
+C:\Users\Morgana\DEV\mentoria-carrefour\obj\Debug\net6.0\mentoria-carrefour.AssemblyInfo.cs
+C:\Users\Morgana\DEV\mentoria-carrefour\obj\Debug\net6.0\mentoria-carrefour.csproj.CoreCompileInputs.cache
+C:\Users\Morgana\DEV\mentoria-carrefour\obj\Debug\net6.0\mentoria-carrefour.dll
+C:\Users\Morgana\DEV\mentoria-carrefour\obj\Debug\net6.0\refint\mentoria-carrefour.dll
+C:\Users\Morgana\DEV\mentoria-carrefour\obj\Debug\net6.0\mentoria-carrefour.pdb
+C:\Users\Morgana\DEV\mentoria-carrefour\obj\Debug\net6.0\mentoria-carrefour.genruntimeconfig.cache
+C:\Users\Morgana\DEV\mentoria-carrefour\obj\Debug\net6.0\ref\mentoria-carrefour.dll
